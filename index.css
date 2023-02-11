@@ -1,0 +1,57 @@
+.container{
+  margin: 10px 10px 10px 10px;
+}
+
+h1{
+  text-align: center;
+}
+input, select {
+  
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#button{
+  
+  font-size: 30px;
+}
+
+span{
+  color: red;
+}
+
+#confirmpass{
+  margin-right: 1.2%;
+}
+
+#pass{
+  margin-right: 5.9%;
+}
+
+#contact{
+  margin-right: 2.8%;
+}
+
+#email{
+  margin-right: 6.6%;
+}
+
+#firstname{
+  margin-right: 16%;
+}
+
+.header{
+
+  margin:1% 0% 2% 0%;
+}
+
+hr.new4 {
+  border: 1px solid black;
+  margin-bottom: 2%;
+  width: 30%;
+  
+}
